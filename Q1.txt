@@ -1,0 +1,36 @@
+1. List out the features of hTML5.
+
+Answer : HTML5, the fifth revision of the HTML standard, introduced several new features and improvements for web development. Here is a list of some key features of 	 HTML5:-
+
+	A) New Doctype: HTML5 introduced a simplified, shorter <!DOCTYPE html> declaration.
+
+	B) Semantic Elements: HTML5 introduced new semantic elements like <header>, <footer>, <nav>, <article>, <section>, <aside>, and <figure>, making the structure 			      of web pages more meaningful and machine-readable.
+
+	C) Audio and Video Support: Native support for embedding audio and video elements (<audio> and <video>), eliminating the need for third-party plugins like         			    Flash.
+
+	D) New Form Input Types: HTML5 introduced new input types such as <input type="email">, <input type="url">, <input type="number">, and more, providing better 				 support for user input.
+
+	E) Form Validation: Built-in form validation through attributes like required, pattern, and the pattern attribute, reducing the need for JavaScript-based 			    validation.
+
+	F) Canvas: The <canvas> element allows dynamic rendering of graphics and images, providing a drawing API for creating charts, animations, and interactive 		   content.
+
+	G) SVG Support: HTML5 supports Scalable Vector Graphics (SVG) directly in the markup, enabling the use of vector graphics for images and illustrations.
+
+	
+	H) Offline Web Applications: HTML5 introduced the Application Cache (AppCache) to enable web applications to work offline, providing a better user experience.
+	
+	I) Offline Web Applications: HTML5 introduced the Application Cache (AppCache) to enable web applications to work offline, providing a better user experience.
+
+	J) Web Storage: Introduced the Web Storage API (localStorage and sessionStorage) as an alternative to cookies for storing key-value pairs locally.
+
+	K) Geolocation API: HTML5 provides a Geolocation API that allows websites to access the user's geographical location.
+
+	L) Local Storage and Session Storage: The localStorage and sessionStorage APIs allow storing data on the client side, providing persistent and session-based 					      storage options.
+
+
+	M) Drag and Drop: Native support for drag-and-drop functionality, making it easier to implement user-friendly interfaces.
+	
+	N) Web Accessibility: Improved accessibility features, including the introduction of landmark roles and ARIA (Accessible Rich Internet Applications) attributes 			      for better accessibility support.
+
+
+	O) ContentEditable Attribute: The contenteditable attribute allows making any element editable, enabling rich-text editing within the browser.
